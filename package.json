@@ -1,0 +1,24 @@
+{
+  "name": "encryptutils",
+  "version": "0.0.0",
+  "description": "Encryption utilities",
+  "main": "encryptutils.js",
+  "scripts": {
+    "test": "mocha mocha_test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ghostfreak3000@github.com/ghostfreak3000/encryptutils.git"
+  },
+  "keywords": [
+    "gcm",
+    "ctr",
+    "encryption"
+  ],
+  "author": "Bishaka Samuel <sbishaka@gmail.com> (https://twitter.com/sbishaka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostfreak3000/encryptutils/issues"
+  },
+  "homepage": "https://github.com/ghostfreak3000/encryptutils#readme"
+}
